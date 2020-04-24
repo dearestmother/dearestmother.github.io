@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<div class="dialog-box">
+  <h2 class="dialog-box__date">
+    {%- assign date_format = site.date_format | default: "%B %-d, %Y" -%}
+    {{ page.date | date: date_format }}
+  </h2>
+  <p>Dearest Mother,</p>
+  <p></p>
+  <img style="float: right; margin: 0px 0px 15px 15px;"  src="/assests/icon4.png"/>
+  <header class="page-header">
+    {% assign title = page.title | markdownify | strip_html %}
+  </header>
+  {{ content }}
+  <p style="float: right;">{{ page.tagline }}yours,<br>John</p>
+  <p style="clear: right;"></p>
+</div>

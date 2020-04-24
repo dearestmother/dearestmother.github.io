@@ -1,0 +1,27 @@
+{% if entry.id %}
+  {% assign title = entry.title | markdownify | strip_html %}
+  {% assign tagline = entry.tagline | markdownify | strip_html %}
+{% else %}
+  {% assign title = entry.title %}
+  {% assign tagline = entry.tagline %}
+{% endif %}
+
+
+<div class="dialog-box">
+  <h2 class="dialog-box__date">
+    {%- assign date_format = site.date_format | default: "%B %-d, %Y" -%}
+    {{ entry.date | date: date_format }}
+  </h2>
+  <img style="float: right; margin: 0px 0px 15px 15px;"  src="/assets/icon4.png"/>
+  <header class="page-header">
+    <h1>{{ title }}</h1>
+  </header>
+  <p>Dearest Mother,</p>
+  <p></p>
+  {{ entry.content | markdownify }}
+  <p style="float: right;">{{ tagline }} yours,<br>John</p>
+  <p style="clear: right;"></p>
+  
+</div>
+
+
