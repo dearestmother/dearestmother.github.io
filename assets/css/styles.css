@@ -19,6 +19,23 @@ body {
   justify-content: center;
   font-family: 'Varela Round', sans-serif;
 }
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.mainc,
+.sidebar {
+  padding: 10px;
+}
+
+.mainc {
+  width: 75%;
+}
+
+.sidebar {
+  width: 25%;
+}
 
 h1 {
   text-align: center;

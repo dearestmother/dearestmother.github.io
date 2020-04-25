@@ -12,13 +12,20 @@
     <!--
       {% include skip-links.html %}
     -->
-    <!--
-    {% include navigation.html %}
-    <!--
-    {% include masthead.html %}
-
-    {{ content }}
-
+    <div class="dialog-box">
+      <a href="/"><h1>Dearest Mother</h1></a>
+      <h3 style="text-align: center">Stories from the Other Side of the Prairie</h3>
+      <div style="text-align: center">This started out as a bunch of postcards sent to my mother who was house+dog sitting while we went on vacation. Now, it is just an excuse to write.</div>
+    </div>
+    <div class="wrapper">
+      <div class="main">
+        {{ content }}
+      </div>
+      <div class="sidebar">
+        {% include navigation.html %}
+      </div>
+    </div>
+      
     {% include footer.html %}
     {% include scripts.html %}
   </body>
