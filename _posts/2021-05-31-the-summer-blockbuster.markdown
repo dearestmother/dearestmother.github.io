@@ -1,17 +1,15 @@
 ---
 layout: post
-title:  "The Summer Blockbuster"
+title:  "The Great Race"
 date:   2021-05-31 12:00:00 -0500
 categories: story
-tagline: Miraculously
+tagline: Indicadously
 ---
 
-The time incident that we had over a year ago with the time space continium caused by springing too far forward. At least, that is what I think happened. Jenn said that there wasn't anything sci-fi going on, it was just that I finally woke up from a coma due to Morgan smacking my noggin with a 2x4 because she was upset about the prank.
+This weedkend, we had the great race. Thirty competitors lined their tractors up on the edge of a field and decided to run 500 oval laps around the boundary.
 
-Summer is upon us with the temperature rising, cicadas voices rising, and the cost of lumber rising. We have started a business selling 2x4 lumber for construction. Unlike our breadstick boat, the wood in our materials actually grows on trees. After we felled every tree on the property and made a fantastic bit of scratch, we quickly realized that we were completely out of stock.
+When the flag waved, they all rocketed off at a blistering speeds of up to 20 miles per hour. Twelve laps in, one of the racers hit a gopher hole and spun out into the hay. Lap 14 saw a group of three more racers lose traction on some pebbles and cause a tremendous pile up. By lap 21, nearly half of the tractors were out of commission from collisions or other mechanical failures.
 
-To rectify that, we replanted hundreds of trees. Normally, this would require decades to regrow to be worth it to re-ungrow. Lain said that he saw something called "Miracle Grow" back at the nursery that we got the replacement saplings. After sprinkling the powder on any tree, we wait a few minute and... nothing happened. Questioning what we were doing wrong, we started to pick dieties that might have something to do with harvests and prayed to them for the Miracle powder to actually "Miracle". 
+The race ended uncerimoniosly at lap 37 when the last driver had a wheel fall off and he just kind of tipped over and skidded for 10 feet. We rushed out and celebrated his win with a fresh cup of milk serviced in a special cup for him to drink.
 
-Cereal did nothing. Deinch (because we use imperial measurement) could't be bothered. Havarti sounded cheesed off and said that we had the wrong address. Lastly, we actually contacted Osiris but he said it was the wrong time of the cycle and Neper was out of town fishing.
-
-I guess you can't put much trust into magic and quick fixes and instead have to just trust the science and wait.
+It was decided that next year, the goal would be just 50 laps instead of the lofty 500.
